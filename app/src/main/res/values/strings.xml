@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Soko Yetu</string>
+
+
+    <string name="category_products">Products</string>
+
+
+    <string name="category_Famers">Famers</string>
+
+
+    <string name="category_Driver">Drivers</string>
+
+
+    <string name="category_Consumers">Consumers</string>
+
+    <string name="profile">Profile</string>
+
+</resources>
