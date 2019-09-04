@@ -10,4 +10,9 @@ This are sample of the admin categoriry and user data viewing
 
 ![Screenshot_20190904-124350](https://user-images.githubusercontent.com/34624703/64245384-ae4f0380-cebf-11e9-8fd6-dcc0c99f236e.png) 
 
+![Screenshot_20190904-124416](https://user-images.githubusercontent.com/34624703/64245611-16054e80-cec0-11e9-8316-29b3ae32c98f.png)
+
+
+
+
 
